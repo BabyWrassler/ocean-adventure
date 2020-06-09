@@ -1,17 +1,6 @@
-# ocean-adventure ![Build status badge](https://github.com/babywrassler/ocean-adventure/workflows/MakeCode/badge.svg)
+# Who's the Catch? ![Build status badge](https://github.com/babywrassler/ocean-adventure/workflows/MakeCode/badge.svg)
 
-
-
-## Use this extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open https://arcade.makecode.com/
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for the URL of this repository and import
-
-## Edit this extension
+## Edit this game
 
 To edit this repository in MakeCode.
 
